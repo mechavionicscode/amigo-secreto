@@ -9,10 +9,12 @@ Este es un proyecto simple en JavaScript, HTML y CSS que permite agregar amigos 
 ✅ Muestra la lista de amigos en la página.
 ✅ Realiza un sorteo aleatorio entre los amigos agregados.
 
+
 🛠️ Tecnologías Utilizadas
 HTML → Estructura del sitio.
 CSS → Estilos básicos (si se agregan).
 JavaScript → Lógica de la aplicación.
+
 📥 Instalación y Uso
 1️⃣ Clona este repositorio en tu máquina:
 [git clone https://github.com/tu-usuario/sorteo-amigos.git]
